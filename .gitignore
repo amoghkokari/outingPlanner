@@ -1,0 +1,13 @@
+# Bytecode files
+__pycache__
+*.py[cod]
+
+# Virtual environments
+outingPlannerEnv
+
+# Streamlit config/state
+.streamlit/
+*.toml
+
+# OS-specific
+.DS_Store
