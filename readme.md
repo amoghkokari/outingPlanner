@@ -64,6 +64,5 @@ Built with ❤️ by Amogh Mahadev Kokari
 
 ## 🧪 Sample Inputs
 Try pasting this into the input box:
-
-    “I’m exhausted from work and want to do something chill this weekend in New Jersey — maybe some music and fresh air, budget under $100.”
+> “I’m exhausted from work and want to do something chill this weekend in New Jersey — maybe some music and fresh air, budget under $100.”
 
